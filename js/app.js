@@ -1,0 +1,7 @@
+$(() => {
+  init();
+});
+
+const init = () => {
+  viewevents();
+};
